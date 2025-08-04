@@ -9,6 +9,7 @@ It was developed in collaboration with [Vale-Flo](https://github.com/Vale-Flo) a
 
 - Process management (`fork`, `execve`, `wait`)
 - Signal handling (`SIGINT`, `SIGQUIT`)
+- Abstract Syntax Tree (AST)
 - File descriptors and redirections
 - Pipes (`|`)
 - Parsing and tokenization
